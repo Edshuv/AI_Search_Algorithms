@@ -3,7 +3,7 @@
 
 ## Overview
 
-Search is an integral part of AI. Here is implemented several graph search algorithms with the goal of solving bi-directional and tri-directional search.
+Search is an integral part of AI. Here is implemented several graph search algorithms with the goal of solving bi-directional and tri-directional search and find the optimal path between two nodes.
 
 
 ### The Files
